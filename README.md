@@ -70,11 +70,13 @@ https://drive.google.com/file/d/10T2G7COCBOnmB_HhLA_V_AFXBCtbfQTE/view?usp=shari
 ### Доступ к административной панели:
 
 Логин: admin
+
 Пароль: admin
 
 ### Доступ к личному кабинету менеджера:
 
 Логин: oleg
+
 Пароль: oleg
 
 ### Доступ к личному кабинету уже зарегистрированного клиента:
@@ -82,4 +84,5 @@ https://drive.google.com/file/d/10T2G7COCBOnmB_HhLA_V_AFXBCtbfQTE/view?usp=shari
 (можно регистрироваться и самим)
 
 Логин: kristina
+
 Пароль: kristina
