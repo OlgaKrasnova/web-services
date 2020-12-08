@@ -65,6 +65,8 @@ https://www.figma.com/file/0V4f3LVrUvoUC3QVBj2Y6Y/Макет-страниц-дл
 
 https://drive.google.com/file/d/10T2G7COCBOnmB_HhLA_V_AFXBCtbfQTE/view?usp=sharing
 
+База данных создана на сервере fit.mospolytech.ru. Поэтому для того, чтобы база данных работала, необходимо через VPN подключиться к серверу ФИТа. Инструкция тут: https://fit.mospolytech.ru/systems/vpn
+
 ## Данные об зарегистрированных пользователях в системе
 
 ### Доступ к административной панели:
